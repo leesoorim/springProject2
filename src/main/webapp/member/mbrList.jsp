@@ -30,7 +30,7 @@
 			<col width="25%"/>
 		</colgroup>
 		<tr>
-			<th>번호121212</th>
+			<th>번호121212121212</th>
 			<th>아이디</th>
 			<th>이름</th>
 			<th>성별</th>

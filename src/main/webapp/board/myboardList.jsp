@@ -8,7 +8,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>댓글 게시판 목록 화면555</title>
+	<title>댓글 게시판 목록 화면</title>
 	<link rel="stylesheet" href="../css/style.css" />
 
 	<link rel="stylesheet" href="../css/jquery-ui.css">
@@ -44,9 +44,9 @@
     		<col width="15%"/>
     	</colgroup>
     	<tr>
-    		<th>번호555</th>
-    		<th>제목555</th>
-    		<th>글쓴이55</th>
+    		<th>번호</th>
+    		<th>제목</th>
+    		<th>글쓴이</th>
     		<th>조회수</th>
     		<th>등록일</th>
     	</tr>

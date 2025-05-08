@@ -18,7 +18,7 @@
 
 <div>
 
-
+	<!-- abcdefghijklmnop -->
 	<div> Total : <c:out value="${total }"/> </div>
 	
 	<table class="table1">

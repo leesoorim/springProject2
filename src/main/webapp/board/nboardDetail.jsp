@@ -8,7 +8,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>게시판 상세화면</title>
+	<title>게시판 상세화면777</title>
 	<link rel="stylesheet" href="../css/style.css" />
 	<script src="../js/jquery-3.7.1.js"></script>
 </head>
@@ -68,15 +68,15 @@ $(function(){
 		<col width="*" />
 	</colgroup>
 	<tr>
-		<th><label for="title">제목</label></th>
+		<th><label for="title">제목777</label></th>
 		<td>${dto.title }</td>
 	</tr>
 	<tr>
-		<th><label for="writer">글쓴이</label></th>
+		<th><label for="writer">글쓴이777</label></th>
 		<td>${dto.writer }</td>
 	</tr>
 	<tr>
-		<th><label for="content">내용</label></th>
+		<th><label for="content">내용777</label></th>
 		<td><div class="div_content">${dto.content }</div></td>
 	</tr>
 	<tr>

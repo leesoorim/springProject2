@@ -8,7 +8,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>업로드 게시판 등록 화면</title>
+	<title>업로드 게시판 수정 화면123</title>
 	<link rel="stylesheet" href="../css/style.css" />
 	<link rel="stylesheet" href="../css/jquery-ui.css">
   	<script src="../js/jquery-3.7.1.js"></script>
@@ -100,7 +100,7 @@
 
 <body>
  <div class="div_title">
-    업로드 게시판 등록 화면
+    업로드 게시판 등록 화면333333
  </div>
  
 <form id="frm" enctype="multipart/form-data">
